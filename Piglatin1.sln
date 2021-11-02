@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piglatin1", "Piglatin1\Piglatin1.csproj", "{EB94CF49-6A51-4748-855B-9877F70ECB38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB94CF49-6A51-4748-855B-9877F70ECB38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB94CF49-6A51-4748-855B-9877F70ECB38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB94CF49-6A51-4748-855B-9877F70ECB38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB94CF49-6A51-4748-855B-9877F70ECB38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF6F295D-D56B-4092-AB0E-94120FC70620}
+	EndGlobalSection
+EndGlobal
